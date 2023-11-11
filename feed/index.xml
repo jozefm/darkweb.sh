@@ -9,35 +9,23 @@
 
 <channel>
 	<title>darkweb.sh</title>
-	<atom:link href="https://darkweb.sh/feed/" rel="self" type="application/rss+xml" />
-	<link>https://darkweb.sh/</link>
+	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>DarkWeb.sh</description>
-	<lastBuildDate>Fri, 06 May 2022 09:21:26 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 09 Nov 2023 05:21:02 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0</generator>
-	<item>
-		<title>Hello world!</title>
-		<link>https://darkweb.sh/2022/05/06/hello-world/</link>
-					<comments>https://darkweb.sh/2022/05/06/hello-world/#respond</comments>
-		
-		<dc:creator><![CDATA[adminfox]]></dc:creator>
-		<pubDate>Fri, 06 May 2022 09:21:26 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">https://darkweb.sh/?p=1</guid>
+	<generator>https://wordpress.org/?v=6.4.1</generator>
 
-					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
-										<content:encoded><![CDATA[
-<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://darkweb.sh/2022/05/06/hello-world/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-	</channel>
+<image>
+	<url>/wp-content/uploads/2022/11/image-19.png</url>
+	<title>darkweb.sh</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+</channel>
 </rss>
