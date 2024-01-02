@@ -4,7 +4,7 @@
 ETC_HOSTS=/etc/hosts
 
 #########################
-# The command line help #
+# Darkweb.sh            #
 #########################
 display_help() {
     echo "DarkNet.org Lab Management Script (Docker based)"
@@ -46,7 +46,6 @@ then
 		echo "Not starting. Script will not be able to run applications."
 	fi
 fi
-
 
 ##############################
 # List Darknets.org Lab apps #
@@ -198,8 +197,6 @@ project_startinfo_juiceshop ()
   echo "OWASP Juice Shop now available at http://juiceshop"
 }
 
-
-
 #########################
 # Common start          #
 #########################
@@ -249,8 +246,6 @@ project_stop ()
   sudo docker stop $projectname
   removehost "$projectname"
 }
-
-
 
 project_status()
 {
